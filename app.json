@@ -31,6 +31,12 @@
         "projectId": "b222db1b-f479-42f9-a865-50c69728cf98"
       }
     },
-    "owner": "mattclaffey"
+    "owner": "mattclaffey",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b222db1b-f479-42f9-a865-50c69728cf98"
+    }
   }
 }
